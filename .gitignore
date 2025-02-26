@@ -1,15 +1,11 @@
-# Hugo caches and locks
-/resources/
-/.hugo_build.lock
-
-# Hugo theme
-themes/
-
-# Node.js
-/node_modules/
+ # Hugo artifacts
+.hugo_build.lock
+public
 
 # OS specific
 .DS_Store
+.AppleDouble
+.LSOverride
 Thumbs.db
 
 # Editor specific
