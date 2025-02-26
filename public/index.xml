@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Jack Bloomfeld</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Jack Bloomfeld</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my bets on web3 - round 2</title>
+      <link>http://localhost:1313/posts/my-bets-on-web3-round-2/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-bets-on-web3-round-2/</guid>
+      <description>some opinions I hold regarding web3</description>
+    </item>
+    <item>
+      <title>building a mental model of Bitcoin</title>
+      <link>http://localhost:1313/posts/building-a-mental-model-of-bitcoin/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/building-a-mental-model-of-bitcoin/</guid>
+      <description>How to understand Bitcoin more correctly</description>
+    </item>
+    <item>
+      <title>some common arguments against blockchain</title>
+      <link>http://localhost:1313/posts/some-common-arguments-against-blockchain/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/some-common-arguments-against-blockchain/</guid>
+      <description>some common arguments against blockchain</description>
+    </item>
+    <item>
+      <title>the real risk in Bitcoin</title>
+      <link>http://localhost:1313/posts/the-real-risk-in-bitcoin/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-real-risk-in-bitcoin/</guid>
+      <description>the real risk in Bitcoin</description>
+    </item>
+    <item>
+      <title>a Bitcoin primer</title>
+      <link>http://localhost:1313/posts/a-bitcoin-primer/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-bitcoin-primer/</guid>
+      <description>The essentials of Bitcoin</description>
+    </item>
+    <item>
+      <title>the core value of blockchain</title>
+      <link>http://localhost:1313/posts/the-core-value-of-blockchain/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-core-value-of-blockchain/</guid>
+      <description>the core value of blockchain</description>
+    </item>
+    <item>
+      <title>my bets on web3</title>
+      <link>http://localhost:1313/posts/my-bets-on-web3/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-bets-on-web3/</guid>
+      <description>some opinions I hold regarding web3</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I was born and rasied in the beautiful state of North Carolina. I studied computer science at Duke University and have since worked as a software engineer. Currently I am spending my time traveling and building projects for fun.&lt;/p&gt;&#xA;&lt;div class=&#34;image-row&#34;&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-xs&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;My photo&#34; src=&#34;http://localhost:1313/about/acatenango.jpg#xs&#34; width=&#34;2268px&#34; height=&#34;4032px&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-xs&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;My photo&#34; src=&#34;http://localhost:1313/about/acatenango3.jpeg#xs&#34; width=&#34;4032px&#34; height=&#34;3024px&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-xs&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;My photo&#34; src=&#34;http://localhost:1313/about/acatenango2.jpg#xs&#34; width=&#34;3024px&#34; height=&#34;4032px&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;The most important thing in my life is wellness. I have spent years experimenting with different nutrition, exercise, sleep, and mindfulness practices. With this effort I have found many Buddhist and Ayurvedic practices that work well for me, you can read more about them in my blog posts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coffee</title>
+      <link>http://localhost:1313/coffee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/coffee/</guid>
+      <description>&lt;p&gt;The best cappuccinos and croissants around the world.&lt;/p&gt;&#xA;&lt;div class=&#34;image-row&#34;&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-small&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Cafe Welchez&#34; src=&#34;http://localhost:1313/coffee/cafe-welchez.jpeg#small&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div class=&#34;caption-container&#34;&gt;&#xA;        &lt;figcaption&gt; Cafe Welchez &lt;/figcaption&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA; &lt;br&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-small&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;La Patisserie&#34; src=&#34;http://localhost:1313/coffee/la-patisserie.jpeg#small&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div class=&#34;caption-container&#34;&gt;&#xA;        &lt;figcaption&gt; La Patisserie &lt;/figcaption&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA; &lt;br&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-small&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Rolling Waves Coffee&#34; src=&#34;http://localhost:1313/coffee/rolling-waves.jpeg#small&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div class=&#34;caption-container&#34;&gt;&#xA;        &lt;figcaption&gt; Rolling Waves Coffee &lt;/figcaption&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA; \&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Winston-Salem, NC - &lt;a href=&#34;https://www.bobbyboybakeshop.com/&#34;&gt;Bobby Boy Bakeshop&lt;/a&gt; &lt;br&gt;&#xA;Durham, NC - &lt;a href=&#34;https://littlewaves.coffee/pages/old-north-durham&#34;&gt;Cocoa Cinnamon&lt;/a&gt; &lt;br&gt;&#xA;Manhattan, NYC - &lt;a href=&#34;https://www.dripdrop.nyc/&#34;&gt;Drip Drop&lt;/a&gt; &lt;br&gt;&#xA;Brooklyn, NYC - &lt;a href=&#34;https://www.ixvcoffee.com/&#34;&gt;IXV Coffee&lt;/a&gt; &lt;br&gt;&#xA;Seattle, WA - &lt;a href=&#34;https://lighthouseroasters.com/&#34;&gt;Lighthouse Roasters&lt;/a&gt; &lt;br&gt;&#xA;Seattle, WA - &lt;a href=&#34;https://www.templepastries.com/&#34;&gt;Temple Pastries&lt;/a&gt; &lt;br&gt;&#xA;Anchorage, AK - &lt;a href=&#34;https://www.thatfeeling.co/&#34;&gt;That Feeling Co&lt;/a&gt; &lt;br&gt;&#xA;Whistler, Canada - &lt;a href=&#34;https://www.purebread.ca/&#34;&gt;Purebread Bakery &amp;amp; Cafe&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lagos, Portugal - &lt;a href=&#34;https://blackandwhitelagos.com/&#34;&gt;Black and White Coffee Shop&lt;/a&gt; &lt;br&gt;&#xA;Paris, France - &lt;a href=&#34;https://www.thebeansonfire.com/&#34;&gt;The Beans on Fire&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Library</title>
+      <link>http://localhost:1313/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;p&gt;The books that have had the largest lasting impact on my life.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning&#34;&gt;Mans Search for Meaning&lt;/a&gt; - Viktor Frankl &lt;br&gt;&#xA;&lt;a href=&#34;https://www.goodreads.com/book/show/12505.The_Idiot&#34;&gt;The Idiot&lt;/a&gt; - Fyodor Dostoevsky &lt;br&gt;&#xA;&lt;a href=&#34;https://www.goodreads.com/book/show/7144.Crime_and_Punishment&#34;&gt;Crime and Punishment&lt;/a&gt; - Fyodor Dostoevsky &lt;br&gt;&#xA;&lt;a href=&#34;https://www.goodreads.com/book/show/25942786-the-mind-illuminated&#34;&gt;The Mind Illuminated&lt;/a&gt; - John Yates, Matthew Immergut, Jeremy Graves &lt;br&gt;&#xA;&lt;a href=&#34;https://www.goodreads.com/book/show/61129785-brain-energy&#34;&gt;Brain Energy&lt;/a&gt; - Christopher Palmer&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.yogawithmschristine.com/&#34;&gt;Children&amp;rsquo;s Yoga with Ms. Christine&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-medium&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Children&amp;rsquo;s Yoga with Ms. Christine&#34; src=&#34;http://localhost:1313/projects/yoga.png#medium&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div class=&#34;caption-container&#34;&gt;&#xA;        &lt;figcaption&gt; Business website for Children&amp;rsquo;s Yoga with Ms. Christine &lt;/figcaption&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Random Post</title>
+      <link>http://localhost:1313/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/random/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
