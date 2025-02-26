@@ -1,10 +1,7 @@
-baseURL = 'https://jbloomfeld.xyz/'
+baseURL = 'https://jackbl1.github.io/'
 languageCode = 'en-us'
 title = 'Jack Bloomfeld'
 theme = 'typo'
-
-# Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
 
 [taxonomies]
 tag = 'tags'
