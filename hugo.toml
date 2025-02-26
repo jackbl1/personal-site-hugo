@@ -74,6 +74,10 @@ url = "/books"
 name = "coffee"
 url = "/coffee"
 
+[[params.menu]]
+name = "random post"
+url = "/random"
+
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]

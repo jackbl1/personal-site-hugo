@@ -1,0 +1,23 @@
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Random Post</title>
+    <script>
+      // Get all post URLs
+      const posts = [
+        {{ range $posts }}
+          "{{ .RelPermalink }}",
+        {{ end }}
+      ];
+      // Redirect to a random post
+      window.onload = function() {
+        const randomIndex = Math.floor(Math.random() * posts.length);
+        window.location.href = posts[randomIndex];
+      }
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to a random post...</p>
+  </body>
+</html>

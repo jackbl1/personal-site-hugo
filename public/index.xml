@@ -83,7 +83,14 @@
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.yogawithmschristine.com/&#34;&gt;Children&amp;rsquo;s Yoga with Ms. Christine&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-small&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Children&amp;rsquo;s Yoga with Ms. Christine&#34; src=&#34;http://localhost:1313/../assets/yoga.png#small&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div class=&#34;caption-container&#34;&gt;&#xA;        &lt;figcaption&gt; Business website for Children&amp;rsquo;s Yoga with Ms. Christine &lt;/figcaption&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://auth-playground-eight.vercel.app/&#34;&gt;Auth Playground&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-small&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Auth Playground&#34; src=&#34;http://localhost:1313/assets/auth-playground.png#small&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div class=&#34;caption-container&#34;&gt;&#xA;        &lt;figcaption&gt; Web3 Authentication Plugins &lt;/figcaption&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.yogawithmschristine.com/&#34;&gt;Children&amp;rsquo;s Yoga with Ms. Christine&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-small&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Children&amp;rsquo;s Yoga with Ms. Christine&#34; src=&#34;http://localhost:1313/assets/yoga.png#small&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;    &lt;div class=&#34;caption-container&#34;&gt;&#xA;        &lt;figcaption&gt; Business website for Children&amp;rsquo;s Yoga with Ms. Christine &lt;/figcaption&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Random Post</title>
+      <link>http://localhost:1313/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/random/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
