@@ -1,6 +1,5 @@
  # Hugo artifacts
 .hugo_build.lock
-public
 
 # OS specific
 .DS_Store
