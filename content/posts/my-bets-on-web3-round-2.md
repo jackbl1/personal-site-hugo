@@ -7,7 +7,7 @@ toc=false
 readTime=true
 autonumber=true
 math=true
-tags=["Bitcoin", "blockchain"]
+tags=["Bitcoin", "blockchain", "predictions"]
 showTags=false
 hideBackToTop=false
 +++

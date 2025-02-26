@@ -2,7 +2,7 @@
 title="a Bitcoin primer"
 date="2022-06-27"
 summary="The essentials of Bitcoin"
-description="The essentials of Bitcoin"
+description="the essentials of Bitcoin"
 toc=false
 readTime=true
 autonumber=true

@@ -1,8 +1,8 @@
 +++
 title="building a mental model of Bitcoin"
 date="2022-12-21"
-summary="How to understand Bitcoin more correctly"
-description="How to understand Bitcoin more correctly"
+summary="how to understand Bitcoin more correctly"
+description="how to understand Bitcoin more correctly"
 toc=false
 readTime=true
 autonumber=true
