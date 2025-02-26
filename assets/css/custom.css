@@ -1,0 +1,21 @@
+/* Custom image sizes */
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+/* Small images - 300px max width */
+img[src$="#small"] {
+  max-width: 300px;
+  height: auto;
+}
+
+/* Extra small images - 256px max height */
+img[src$="#xs"] {
+  max-height: 256px;
+  width: auto;
+}

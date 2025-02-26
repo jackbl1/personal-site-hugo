@@ -10,7 +10,7 @@ I was born and rasied in the beautiful state of North Carolina. I studied comput
 <div class="image-row">
 
 ![My photo](acatenango.jpg#xs)
-![My photo](acatenango3.jpeg#xs)
+![My photo](acatenango3.jpeg#xs "Volcan Acatenango - Guatemala")
 ![My photo](acatenango2.jpg#xs)
 
 </div>
@@ -19,9 +19,9 @@ The most important thing in my life is wellness. I have spent years experimentin
 
 <div class="image-row">
 
-![My photo](denali.jpeg#xs)
-![My photo](lake-atitlan.jpeg#xs)
-![My photo](lake-atitlan2.jpeg#xs)
+![My photo](denali.jpeg#xs "Denali, Alaska")
+![My photo](lake-atitlan.jpeg#xs "Xela Highlands - Guatemala")
+![My photo](lake-atitlan2.jpeg#xs "Lake Atitlan - Guatemala")
 
 </div>
 

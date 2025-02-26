@@ -25,7 +25,7 @@ I am Jack, a technologist and wellness enthusiast. Welcome to my site. Browse th
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
+homeCollectionTitle = 'Writing'
 homeCollection = 'posts'
 
 # Lists parameters

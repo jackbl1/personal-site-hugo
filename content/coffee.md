@@ -9,9 +9,9 @@ The best cappuccinos and croissants around the world.
 
 <div class="image-row">
 
-![Cafe Welchez](/coffee/cafe-welchez.jpeg#small "Cafe Welchez") \
-![La Patisserie](/coffee/la-patisserie.jpeg#small "La Patisserie") \
-![Rolling Waves Coffee](/coffee/rolling-waves.jpeg#small "Rolling Waves Coffee") \
+![Cafe Welchez](/coffee/cafe-welchez.jpeg#small "Cafe Welchez - Honduras") \
+![La Patisserie](/coffee/la-patisserie.jpeg#small "La Patisserie - Guatemala") \
+![Rolling Waves Coffee](/coffee/rolling-waves.jpeg#small "Rolling Waves Coffee - Costa Rica")
 
 </div>
 
@@ -32,4 +32,4 @@ San Marcos, Guatemala - [Circles Cafe](https://www.instagram.com/circlescafebake
 El Paredon, Guatemala - [La Patisserie](https://www.instagram.com/lapatisserieelparedon/) \
 Copán, Honduras - [Cafe Welchez](https://cafehonduras.com/) \
 Monteverde, Costa Rica - [Cafe Monteverde](https://cafedemonteverde.com/) \
-Nosara, Costa Rica - [Rolling Waves Coffee](https://rollingwavescr.com/) \
+Nosara, Costa Rica - [Rolling Waves Coffee](https://rollingwavescr.com/)
