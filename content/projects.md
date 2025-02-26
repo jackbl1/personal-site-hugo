@@ -7,4 +7,4 @@ hidePagination: true
 
 [Children's Yoga with Ms. Christine](https://www.yogawithmschristine.com/)
 
-![Children's Yoga with Ms. Christine](/assets/yoga.png#small "Business website for Children's Yoga with Ms. Christine")
+![Children's Yoga with Ms. Christine](/projects/yoga.png#medium "Business website for Children's Yoga with Ms. Christine")
