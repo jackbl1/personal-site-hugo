@@ -22,7 +22,8 @@ Brooklyn, NYC - [IXV Coffee](https://www.ixvcoffee.com/) \
 Seattle, WA - [Lighthouse Roasters](https://lighthouseroasters.com/) \
 Seattle, WA - [Temple Pastries](https://www.templepastries.com/) \
 Anchorage, AK - [That Feeling Co](https://www.thatfeeling.co/) \
-Whistler, Canada - [Purebread Bakery & Cafe](https://www.purebread.ca/)
+Whistler, Canada - [Purebread Bakery & Cafe](https://www.purebread.ca/) \
+Kauai, HI - [Outpost Coffee](https://www.outpostcoffeekauai.com/)
 
 Lagos, Portugal - [Black and White Coffee Shop](https://blackandwhitelagos.com/) \
 Paris, France - [The Beans on Fire](https://www.thebeansonfire.com/)
