@@ -25,4 +25,4 @@ The most important thing in my life is wellness. I have spent years experimentin
 
 </div>
 
-Please reach out if we share any interests. There are few things I enjoy more than genuine human connection.
+Please reach out if we share any interests. There are few things I enjoy more than genuine connection.
